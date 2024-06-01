@@ -2220,10 +2220,10 @@ dateformat@^2.0.0:
   resolved "https://registry.yarnpkg.com/dateformat/-/dateformat-2.2.0.tgz#4065e2013cf9fb916ddfd82efb506ad4c6769062"
   integrity sha512-GODcnWq3YGoTnygPfi02ygEiRxqUxpJwuRHjdhJYuxpcZmDq4rjBiXYmbCCzStxo176ixfLT6i4NPwQooRySnw==
 
-dayjs@1.11.10:
-  version "1.11.10"
-  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.11.10.tgz#68acea85317a6e164457d6d6947564029a6a16a0"
-  integrity sha512-vjAczensTgRcqDERK0SR2XMwsF/tSvnvlv6VcF2GIhg6Sx4yOIt/irsr1RDJsKiIyBzJDpCoXiWWq28MqH2cnQ==
+dayjs@1.11.11:
+  version "1.11.11"
+  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.11.11.tgz#dfe0e9d54c5f8b68ccf8ca5f72ac603e7e5ed59e"
+  integrity sha512-okzr3f11N6WuqYtZSvm+F776mB41wRZMhKP+hc34YdW+KmtYYK9iqvHSwo2k9FEH3fhGXvOPV6yz2IcSrfRUDg==
 
 debounce-fn@^4.0.0:
   version "4.0.0"
@@ -2543,10 +2543,10 @@ electron-builder@24.6.4:
     simple-update-notifier "2.0.0"
     yargs "^17.6.2"
 
-electron-dl@3.5.1:
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/electron-dl/-/electron-dl-3.5.1.tgz#781287c0c8537e707f034eb3415f4adaded8a7de"
-  integrity sha512-5Yb9s/iPVJ5mW5x3j6XkKxt7WEqREr/AhYxZmtEfW1ffQHs1+aGoiQ2fXCAU6UIXMnWog2MXK82vrxJsjA3nbQ==
+electron-dl@3.5.2:
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/electron-dl/-/electron-dl-3.5.2.tgz#9e83d624473ec90682928b19ae9221a0e0b83a39"
+  integrity sha512-i104cl+u8yJ0lhpRAtUWfeGuWuL1PL6TBiw2gLf0MMIBjfgE485Ags2mcySx4uWU9P9uj/vsD3jd7X+w1lzZxw==
   dependencies:
     ext-name "^5.0.0"
     pupa "^2.0.1"
@@ -7610,24 +7610,24 @@ vinyl@^2.0.0, vinyl@^2.0.1, vinyl@^2.1.0, vinyl@^2.2.0:
     remove-trailing-separator "^1.0.1"
     replace-ext "^1.0.0"
 
-vite-electron-plugin@0.8.2:
-  version "0.8.2"
-  resolved "https://registry.yarnpkg.com/vite-electron-plugin/-/vite-electron-plugin-0.8.2.tgz#25472b6b02060d1fa6871ec6ff1c11a1d9418817"
-  integrity sha512-IN0sSi1MKVh2ewc6b+sSZjsBAyL4XjUvEI9pEvroGonvjk2Jj2Pd00zIabKIQPAnvnPmeRJgv+Hjn/lrvQZqQg==
+vite-electron-plugin@0.8.3:
+  version "0.8.3"
+  resolved "https://registry.yarnpkg.com/vite-electron-plugin/-/vite-electron-plugin-0.8.3.tgz#c94bed0a338037f31352c17b048e26682641b61e"
+  integrity sha512-3F0xdYO0oIOTNUduV1Lows6P+tq2dtnjN0d/AwCnzbL8MynSzDX9HQpilur7C2VP6zRA3Gu/Uxdhg/IKZP3blA==
   dependencies:
     fast-glob "^3.2.12"
     notbundle "~0.4.0"
-    vite-plugin-electron "~0.11.1"
+    vite-plugin-electron "~0.14.1"
 
 vite-plugin-electron-renderer@0.14.5:
   version "0.14.5"
   resolved "https://registry.yarnpkg.com/vite-plugin-electron-renderer/-/vite-plugin-electron-renderer-0.14.5.tgz#2ac36f31773cb23a09353fabb6fb788bdad94f50"
   integrity sha512-EQ7ORuPp8vFPCqfuGnVo7d36fXS0IFH4/RUlKb1drseix3TQEPcgwEuFADdXBxRgqMp70njz/1m0kdf5lEsm8w==
 
-vite-plugin-electron@~0.11.1:
-  version "0.11.2"
-  resolved "https://registry.yarnpkg.com/vite-plugin-electron/-/vite-plugin-electron-0.11.2.tgz#bdb14aeb011fbea0f7cfec0550110fc111951c15"
-  integrity sha512-umQRmSuA80JVxKB3PfO55o8mFTrW+sEtu7kZ5TYKAnkuYpKw7qgxl4f/65gp8x5BGHJjYh/iIRIE26x3Xqc4mQ==
+vite-plugin-electron@~0.14.1:
+  version "0.14.1"
+  resolved "https://registry.yarnpkg.com/vite-plugin-electron/-/vite-plugin-electron-0.14.1.tgz#faad1e26d853ea7960b812272c19521c7f180482"
+  integrity sha512-QGQ2nJ4wjMf1FaDSkdoC/UskQGiYGcAToATJqJXvqrL4Jmt0CFaZqoDjh1xLicUWEo/X7urHYjhKTqwEeP7F7g==
 
 vite-plugin-eslint@1.8.1:
   version "1.8.1"
