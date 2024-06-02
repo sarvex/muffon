@@ -26,7 +26,7 @@
     "postuninstall": "electron-builder install-app-deps"
   },
   "dependencies": {
-    "@emoji-mart/data": "1.1.2",
+    "@emoji-mart/data": "1.2.1",
     "axios": "1.6.0",
     "change-case": "5.1.2",
     "crypto-js": "4.2.0",
