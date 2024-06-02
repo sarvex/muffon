@@ -34,7 +34,7 @@
     "deepmerge": "4.3.1",
     "discord-rpc": "4.0.1",
     "electron-dl": "3.5.1",
-    "electron-store": "8.1.0",
+    "electron-store": "8.2.0",
     "emoji-mart": "5.5.2",
     "fomantic-ui": "2.9.3",
     "hotkeys-js": "3.12.0",
