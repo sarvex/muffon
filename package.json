@@ -57,7 +57,7 @@
     "@vitejs/plugin-vue": "4.4.0",
     "@vue/eslint-config-standard": "8.0.1",
     "electron": "27.0.2",
-    "electron-builder": "24.6.4",
+    "electron-builder": "24.13.3",
     "eslint": "8.52.0",
     "eslint-plugin-vue": "9.18.1",
     "sass": "1.69.5",
